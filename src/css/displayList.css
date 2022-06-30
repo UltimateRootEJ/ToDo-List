@@ -1,0 +1,72 @@
+
+
+body{
+    padding: 0;
+}
+
+
+
+.divDetails{
+    margin-top: 4%;
+    width: 500px;
+    display: flex;
+    margin-left: 10%;
+   border-top-right-radius: 25px;
+   border-bottom-right-radius: 25px;
+    
+}
+
+
+
+
+.listDescLow{
+   width: 480px;
+   border: 2px solid yellow; 
+   background-color: white;
+}
+.listDescMedium{
+    width: 480px;
+    border: 2px solid blue;
+    background-color: white; 
+ }
+.listDescHigh{
+    width: 480px;
+    border: 2px solid red; 
+    background-color: white;
+ }
+.lowLine{
+   
+    border: 6px solid yellow;
+    background-color: yellow;
+    border-right: 25px;
+    width: 20px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+
+    
+    
+   
+}
+
+.mediumLine{
+   
+    border: 6px solid blue;
+    background-color: blue;
+    border-right: 25px;
+    width: 20px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+
+}
+
+.highLine{
+   
+    border: 6px solid rgb(255, 0, 0);
+    background-color: red;
+    border-right: 25px;
+    width: 20px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+
+}
+

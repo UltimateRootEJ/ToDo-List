@@ -1,0 +1,81 @@
+body{
+    width: 100%;
+    padding: 0;
+}
+.signUpContainer
+{
+
+
+border: 2px solid transparent;
+border-radius: 15px;
+width: 500px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 5%;
+height: auto;
+background-color: rgb(69, 161, 131);
+
+}
+
+.imgContainer
+{
+   display: flex;
+   align-items: center;
+   align-content: center;
+   align-self: center;
+    height: 30%;
+    width: 30%;
+   
+    text-align: center;
+    margin: 24px 0 12px 0;
+    /* border: 2px solid white; */
+    margin: 3% 10% 5% 35%; 
+    
+}
+
+img.avatar{
+
+    
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+
+
+.infoContainer2{
+
+    margin: 1% 1% 5% 10%; 
+}
+input{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+ 
+    align-items: center;
+    
+    
+}
+
+h1{
+text-align: center;
+color: rgb(253, 253, 253);
+}
+
+button{
+
+text-align: center;
+margin: 1% 10% 5% 40%; 
+    width: 100px;
+    height: 45px;
+    border-radius: 25px;
+
+}
+
+span{
+    display: inline;
+    margin-left: 80px;
+
+    align-content: center;
+}

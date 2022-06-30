@@ -1,0 +1,28 @@
+.navDiv{
+    display: flex;
+    margin-top: 0px;
+    width: 100%;
+    height: 8vh;
+    background-color: rgb(23, 129, 221);
+}
+
+.homeNav{
+    
+    float: left;
+    width: 50%;
+    margin-left: 0;
+}
+.logOutNav{
+    float: right;
+    width: 50%;
+    margin-left: 80%;
+}
+
+.logoutLink{
+    color: white;
+}
+
+.h1 :hover
+{
+   background-color: red;
+}
